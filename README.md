@@ -6,7 +6,6 @@ I graduated in Computer Science from engineering degree with a very good grade a
 
 - 👀 I’m interested in Java,C++,C#,Python and Flutter.
 - 🌱 I’m currently continuing my learning in Java, Python and C#, but i'm down to learn something that you might need.
-- 💞️ I’m looking for an internship / part-time job.
 - 📫 How to reach me: Kryszczyn#2455 on Discord
 
 # Technologies
