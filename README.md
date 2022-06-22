@@ -30,16 +30,20 @@ I graduated in Computer Science from engineering degree with a very good grade a
   <img align="left" alt="Cs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 
   <img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/8f7b3fb40e2b05078d94187e1ea3e664e05ff33b3b643835d5759e2ade35515d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230343870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" /> 
-
+  <img align="left" alt="Dart" width="30px" 
+       src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" />
+  <img align="left" alt="Kotlin" width="30px" 
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
   <img align="left" alt="Html" width="30px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />
   
   <img align="left" alt="Css" width="22px" 
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
   
-  <img align="left" alt="Php" width="30px" height= "25px"
+  <img align="left" alt="Php" width="40px" height= "30px"
        src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
-  
+  <img align="left" alt="SQL" width="30px" height= "35px"
+       src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg"/>
   <img align="left" alt="JS" width="30px" 
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <br /> <br />
@@ -61,11 +65,14 @@ I graduated in Computer Science from engineering degree with a very good grade a
 
   <img align="left" alt="AndroidStudio" width="30px" src="https://img.dobreprogramy.pl/Images/ToolIcon/16899/20151002134819_0.png" />
 
-  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  
   <img align="left" alt="Spring" width="50px" height="25px" src="https://teamsharq.com/images/spring-boot-logo.png" />
-  
-  <img align="left" alt="Spring" width="50px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" />
+
+  <img align="left" alt="Flutter" width="30px" 
+       src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" />
+  <img align="left" alt="Firebase" width="30px" 
+       src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+  <img align="left" alt="Unity" width="30px" 
+       src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" />
 </a>
 <!---
 Kryszczyn99/Kryszczyn99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
