@@ -1,7 +1,6 @@
 # 👋 Hello
 My name is Krzysiek, also known as Kryszczyn. 
-I graduated in computer science (engineering degree) with a very good grade at the Lodz University of Technology, Poland. I am currently continuing my Master's degree in the same field.
-
+I graduated in computer science (Master's degree) with a very good grade at the Lodz University of Technology, Poland.
 # About me 
 
 - 👀 I’m interested in Java,C++,C#,Python and Flutter.
